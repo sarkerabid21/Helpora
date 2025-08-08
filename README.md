@@ -56,6 +56,7 @@ It is built as a full-stack MERN app with Firebase Authentication and JWT securi
 </p>
 
 ## Dependencies
+```bash
 npm i lottie-react
 npm install aos --save
 npm install motion
@@ -66,6 +67,7 @@ npm i react-fast-marquee
 npm i react-responsive-carousel
 npm install swiper
 npm i leaflet react-leaflet{for exact location map}
+```
 
 ## 🧪 How to Run Locally
 
@@ -79,3 +81,5 @@ npm i leaflet react-leaflet{for exact location map}
 git clone https://github.com/your-username/tech-web.git
 cd tech-web
 npm run build
+
+
