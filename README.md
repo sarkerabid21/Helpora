@@ -1,6 +1,6 @@
 # HELPORA – Volunteer Management Web App
 
-Live Link: [https://job-portal-97a97.web.app/](https://job-portal-97a97.web.app/)
+Live Link: https://job-portal-97a97.web.app/
 
 ## 📌 Project Purpose
 HELPORA is a volunteer management platform that allows users to:
@@ -50,6 +50,22 @@ It is built as a full-stack MERN app with Firebase Authentication and JWT securi
 - 🔄 **Spinner/Loader during data fetch**
 
 ---
+##  Screenshot
+<p align="center">
+  <img  src="https://i.postimg.cc/fRm8tT2Y/Screenshot-2025-08-08-at-15-09-47-HELPORA.png" alt="Banner" width="100%">
+</p>
+
+## Dependencies
+npm i lottie-react
+npm install aos --save
+npm install motion
+npm init -y
+npm i express cors dotenv mongodb
+npm install react-datepicker
+npm i react-fast-marquee
+npm i react-responsive-carousel
+npm install swiper
+npm i leaflet react-leaflet{for exact location map}
 
 ## 🧪 How to Run Locally
 
@@ -62,3 +78,4 @@ It is built as a full-stack MERN app with Firebase Authentication and JWT securi
 ```bash
 git clone https://github.com/your-username/tech-web.git
 cd tech-web
+npm run build
